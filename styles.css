@@ -358,33 +358,33 @@ input #message {
 
 
     .card-curators {
-        grid-column: 2/12;
+        grid-column: 1/13;
     }
 
     .card-database {
-        grid-column: 2/12;
+        grid-column: 1/13;
     }
 
     .card-promoters {
-        grid-column: 2/12;
+        grid-column: 1/13;
     }
 
     .full-width {
-        grid-column: 2/12;
+        grid-column: 1/13;
     }
     .full-width2 {
-        grid-column: 2/12;
+        grid-column: 1/13;
     }
 
     #add-a-project {
-        grid-column: 2/12;
+        grid-column: 1/13;
     }
     #contribute-on-open-issues {
-        grid-column: 2/12;
+        grid-column: 1/13;
     }
 
     #get-in-touch form {
-        grid-column: 2/12;
+        grid-column: 1/13;
         margin-bottom: 200px;
     }
 
